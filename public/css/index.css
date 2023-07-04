@@ -10,6 +10,10 @@
     background:lightyellow;
 }
 
+.input-dark[required] {
+    background:lightyellow;
+}
+
 .input-dark[type="number"] {
     background:yellow;
 }
